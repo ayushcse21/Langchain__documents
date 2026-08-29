@@ -1,15 +1,13 @@
 # LangChain Coursework
 
-This repository contains my hands-on coursework and practice code from a
-### LangChain course.
-The code covers the fundamental building blocks of LangChain, including
-LLMs, chat models, embedding models, and output parsers.
+This repository contains my hands-on coursework and practice code from a **LangChain course**.  
+The code covers the fundamental building blocks of LangChain, including LLMs, chat models, embedding models, and output parsers.
 
-I am maintaining this repository as I progress through the course, so
-additional topics and implementations will be added over time.
+I am maintaining this repository as I progress through the course, so additional topics and implementations will be added over time.
 
 ## 📂 Repository Structure
 
+```text
 LangChain-Coursework/
 │
 ├── 1.LLMs/
@@ -23,73 +21,78 @@ LangChain-Coursework/
 │
 └── Output__parsers_code/
     └── Code and examples related to LangChain Output Parsers
+```
 
 ## 📚 Topics Covered So Far
 
-## 1. LLMs
+### 1. LLMs
 
-Introduction to Large Language Models and their integration with
-LangChain.
+Introduction to Large Language Models and their integration with LangChain.
 
-Topics include: - Working with LLMs - Sending prompts to language
-models - Understanding model inputs and outputs - Basic LangChain LLM
-usage
+Topics include:
 
-## 2. Chat Models
+- Working with LLMs
+- Sending prompts to language models
+- Understanding model inputs and outputs
+- Basic LangChain LLM usage
+
+### 2. Chat Models
 
 Working with chat-based language models through LangChain.
 
-Topics include: - Chat model fundamentals - Messages and message types -
-System, Human, and AI messages - Calling chat models - Basic chat model
-workflows
+Topics include:
 
-## 3. Embedding Models
+- Chat model fundamentals
+- Messages and message types
+- System, Human, and AI messages
+- Calling chat models
+- Basic chat model workflows
 
-Understanding how text can be converted into numerical vector
-representations.
+### 3. Embedding Models
 
-Topics include: - Text embeddings - Embedding models - Generating vector
-representations - Understanding similarity between embeddings - Basic
-use of embeddings in LangChain
+Understanding how text can be converted into numerical vector representations.
 
-## 4. Output Parsers
+Topics include:
 
-Working with LangChain output parsers to convert model responses into
-structured and usable data.
+- Text embeddings
+- Embedding models
+- Generating vector representations
+- Understanding similarity between embeddings
+- Basic use of embeddings in LangChain
 
-Topics include: - Parsing model outputs - Structured outputs -
-Converting LLM responses into Python objects - Using output parsers in
-LangChain workflows
+### 4. Output Parsers
+
+Working with LangChain output parsers to convert model responses into structured and usable data.
+
+Topics include:
+
+- Parsing model outputs
+- Structured outputs
+- Converting LLM responses into Python objects
+- Using output parsers in LangChain workflows
 
 ## 🛠️ Technologies Used
 
-### Python
-
-### LangChain
-
-### LLMs
-
-### Chat Models
-
-### Embedding Models
-
-### Output Parsers
-
-### VS Code / Google Colab
+- **Python**
+- **LangChain**
+- **LLMs**
+- **Chat Models**
+- **Embedding Models**
+- **Output Parsers**
+- **Jupyter Notebook / Google Colab**
 
 ## 🎯 Purpose
 
-The main purpose of this repository is to document my learning journey
-with LangChain through practical implementations and experiments.
+The main purpose of this repository is to document my learning journey with **LangChain** through practical implementations and experiments.
 
-Instead of keeping the coursework only in notebooks, I am organizing the
-code topic-by-topic so that it can also serve as a reference for
-revisiting LangChain concepts later.
+Instead of keeping the coursework only in notebooks, I am organizing the code topic-by-topic so that it can also serve as a reference for revisiting LangChain concepts later.
 
 ## 🚧 Work in Progress
 
-This repository is continuously being updated as I progress through the
-course.
+This repository is continuously being updated as I progress through the course.
 
-More LangChain topics, examples, experiments, and projects will be added
-in the upcoming sections.
+More LangChain topics, examples, experiments, and projects will be added in the upcoming sections.
+
+---
+
+**Learning by building, experimenting, and documenting. 🚀**
